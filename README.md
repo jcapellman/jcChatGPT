@@ -1,2 +1,2 @@
-# chatgpt
-.NET 7 Windows App with ChatGPT
+# ChatGPT
+.NET 7 MAUI App with ChatGPT
